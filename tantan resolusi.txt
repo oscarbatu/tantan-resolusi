@@ -8,3 +8,4 @@ tantan resolusi
 -bikin platform
 -kuliah yang bener
 -vlog
+-Python
