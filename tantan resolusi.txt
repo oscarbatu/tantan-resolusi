@@ -2,6 +2,9 @@ tantan resolusi
 -bikin topologi
   *esp
   *framework java
+ ^angular
+ ^react
+ ^Php
 -interview
 -bikin platform
 -kuliah yang bener
