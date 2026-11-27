@@ -1,5 +1,6 @@
 rencana konten wpu 
 -video
 -java
+-Fundamental data dasar
 -php
 -vlog
