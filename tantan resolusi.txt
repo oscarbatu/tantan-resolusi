@@ -1,5 +1,7 @@
 tantan resolusi
 -bikin topologi
+  *esp
+  *framework java
 -interview
 -bikin platform
 -kuliah yang bener
