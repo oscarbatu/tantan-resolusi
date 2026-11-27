@@ -2,7 +2,10 @@ tantan resolusi
 -bikin topologi
   *esp
   *framework java
+ ^vue
 -interview
+-PHP laravel
 -bikin platform
 -kuliah yang bener
 -vlog
+-Python
